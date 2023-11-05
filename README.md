@@ -12,3 +12,6 @@ Use cobra-cli add.
 1. cobra/command.go: ExecuteC
 1. ExecuteC runs prehooks, posthook, parent cmd, child cmd checks then cmd.execute
 1. execute parses options, preRun, postRun and Run.
+
+## related configuration management project viper
+`https://github.com/spf13/viper`
